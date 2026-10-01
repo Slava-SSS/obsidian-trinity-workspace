@@ -1,0 +1,9 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#d4fb72",
+  "translucency": false,
+  "cssEnabledSnippets": [
+    "design",
+    "главная"
+  ]
+}
